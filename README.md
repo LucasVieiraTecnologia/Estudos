@@ -1,2 +1,2 @@
 # Estudos
-Meus estudos
+Bom, este repositório será para estudos.
